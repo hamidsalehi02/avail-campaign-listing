@@ -1,0 +1,8 @@
+{
+  "name": "hamid",
+  "logo": "https://raw.githubusercontent.com/hamidsalehi02/EigenLayer/main/118733375.png",
+  "rpc_url": "http://65.109.216.124:9944",
+  "explorer_url": "http://65.109.216.124:4000",
+  "metrics_endpoint": "http://65.109.216.124:9615/metrics",
+  "id": "196bf99d-0a87-4acc-aa75-63636ca8f811"
+}
